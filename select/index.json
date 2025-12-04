@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "New me",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-04T15:53:19.028589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Medley: Ike's Rap IV / A Brand New Me",
+      "artist": "Isaac Hayes",
+      "has_synced": false,
+      "path": "select/01_Medley__Ike's_Rap_IV___A_Brand_New_Me_Isaac_Hayes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Medley: Ike's Rap IV \u0000 A Brand New Me",
+      "artist": "Isaac Hayes",
+      "has_synced": false,
+      "path": "select/02_Medley__Ike's_Rap_IV_\u0000_A_Brand_New_Me_Isaac_Hayes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/03_Brand_New_Me_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Me (with The Wailers)",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/04_Brand_New_Me_(with_The_Wailers)_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Brand New Me",
+      "artist": "Dusty Springfield",
+      "has_synced": true,
+      "path": "select/05_A_Brand_New_Me_Dusty_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Brand New Me",
+      "artist": "Dusty Springfield",
+      "has_synced": false,
+      "path": "select/06_A_Brand_New_Me_Dusty_Springfield.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "The Partridge Family",
+      "has_synced": false,
+      "path": "select/07_Brand_New_Me_The_Partridge_Family.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Phoebe Snow",
+      "has_synced": false,
+      "path": "select/08_Brand_New_Me_Phoebe_Snow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Brand New Me",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/09_A_Brand_New_Me_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Brand New Me",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/10_A_Brand_New_Me_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/11_Brand_New_Me_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/12_Brand_New_Me_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brand New Me, Same Shitty You",
+      "artist": "A Wilhelm Scream",
+      "has_synced": true,
+      "path": "select/13_Brand_New_Me,_Same_Shitty_You_A_Wilhelm_Scream.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Brand New Me",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/14_A_Brand_New_Me_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Dusty Springfield",
+      "has_synced": false,
+      "path": "select/15_Brand_New_Me_Dusty_Springfield.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brand New Me",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/16_Brand_New_Me_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New me",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_New_me_YOASOBI.txt"
+    }
+  ]
+}
